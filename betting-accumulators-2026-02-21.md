@@ -7,6 +7,33 @@
 
 ---
 
+## PREMIER LEAGUE TABLE (as of 18 February 2026)
+
+| Pos | Team | P | W | D | L | GD | Pts |
+|-----|------|---|---|---|---|-----|-----|
+| 1 | Arsenal | 27 | 17 | 7 | 3 | +32 | **58** |
+| 2 | Manchester City | 26 | 16 | 5 | 5 | +30 | **53** |
+| 3 | Aston Villa | 26 | 15 | 5 | 6 | +10 | **50** |
+| 4 | Manchester United | 26 | 12 | 9 | 5 | +10 | **45** |
+| 5 | Chelsea | 26 | 12 | 8 | 6 | +17 | **44** |
+| 6 | Liverpool | 26 | 12 | 6 | 8 | +6 | **42** |
+| 7 | Brentford | 26 | 12 | 4 | 10 | +5 | **40** |
+| 8 | Everton | 26 | 10 | 7 | 9 | -1 | **37** |
+| 9 | Bournemouth | 26 | 9 | 10 | 7 | -2 | **37** |
+| 10 | Newcastle | 26 | 10 | 6 | 10 | 0 | **36** |
+| 11 | Sunderland | 26 | 9 | 9 | 8 | -3 | **36** |
+| 12 | Fulham | 26 | 10 | 4 | 12 | -5 | **34** |
+| 13 | Crystal Palace | 26 | 8 | 8 | 10 | -4 | **32** |
+| 14 | Brighton | 26 | 7 | 10 | 9 | 0 | **31** |
+| 15 | Leeds United | 26 | 7 | 9 | 10 | -9 | **30** |
+| 16 | Tottenham | 26 | 7 | 8 | 11 | -1 | **29** |
+| 17 | Nott'm Forest | 26 | 7 | 6 | 13 | -13 | **27** |
+| 18 | West Ham | 26 | 6 | 6 | 14 | -17 | **24** |
+| 19 | Burnley | 26 | 4 | 6 | 16 | -23 | **18** |
+| 20 | Wolves | 26 | 1 | 7 | 19 | -32 | **10** |
+
+---
+
 ## TABLE 1: MASTER SELECTION LIST
 
 ### HIGH CONFIDENCE SELECTIONS
@@ -47,6 +74,7 @@
 | M15 | Bolton vs Blackpool | EFL League One | 15:00 | Bolton Win | MEDIUM | Bolton: Automatic promotion battle, recent good run | Bolton at home | Bolton in automatic promotion fight, strong recent form (4-game winning run ended recently). Home advantage. | League One unpredictable |
 | M16 | Luton vs Burton Albion | EFL League One | 15:00 | Luton Win | MEDIUM | Luton: Quality from Championship | Luton stronger | Luton relegated from Championship, significant quality advantage over Burton Albion. | Need to verify current League One positions |
 | M17 | Coventry vs West Brom (away) | Championship | 12:30 | Coventry Win | MEDIUM | Coventry: 1st (62pts), Haji Wright hat-trick vs Boro | Coventry dominant | Coventry top of Championship (62pts), in superb form. But away at West Brom who are fighting relegation (desperate). | Away match; West Brom desperate for points |
+| M18 | Brentford vs Brighton | Premier League | 15:00 | Brentford Win | MEDIUM | Brentford: 20pts from last 10 PL (W6/D2/L2). Brighton: 1W in 13 since Dec | Brentford won 4-2 H2H at home Apr 2025 | Brentford 7th (40pts), home W7/D4/L2, 31pts from last 16 home games. Brighton in freefall: 1W in 13 PL since Dec, just 7pts above relegation. Igor Thiago has 17 PL goals. | Brighton beat Brentford 2-1 in reverse fixture. Brighton may improve. |
 
 ---
 
@@ -59,7 +87,7 @@
 | RB Leipzig vs Borussia Dortmund | Bundesliga | **Big match** — Two top-6 sides in a high-profile fixture. Both capable of winning. Too unpredictable for accumulator inclusion. |
 | Nottingham Forest vs Liverpool | Premier League | **New manager debut/early match** — Vitor Pereira just appointed (15 Feb). Forest 17th, 3 managers this season. Liverpool faltering but beat Forest 0-3 at Anfield. New manager bounces are unpredictable. Forest also beat Liverpool 3-0 earlier in reverse fixture. |
 | West Ham vs Bournemouth | Premier League | **Both teams volatile** — West Ham fighting relegation (18th, improved form 3W/4 recently). Bournemouth in-form (6 unbeaten). West Ham desperate but poor home record; Bournemouth strong on road. Too close to call. |
-| Brentford vs Brighton | Premier League | **Both mid-table, competitive** — Brentford home W7/D4/L2 but Brighton out of form (1W in 13). However, Brighton beat Brentford 2-1 at home earlier. Competitive fixture with unclear favourite. |
+| Brentford vs Brighton | Premier League | **Moved to MEDIUM** — Brighton in freefall (1W in 13 since December, just 7pts above relegation). Brentford home W7/D4/L2, 20pts from last 10 PL. Reclassified from excluded to M18. |
 | Juventus vs Como | Serie A | **Too close in table** — Juve 5th (46pts) vs Como 6th (44pts). Only 2 points separate them. Como have been impressive this season (W12 D8 L5, +21 GD). Not a clear enough favourite. |
 | Cagliari vs Lazio | Serie A | **Both mid-table** — Cagliari and Lazio (both ~33pts area) with no clear standout form. Hard to separate. |
 | Arouca vs Nacional | Liga Portugal | **Both lower-table** — Arouca 12th (23pts) vs Nacional 14th (21pts). Both in poor form. Too close to call. |
@@ -286,18 +314,20 @@
 | Form | Wolves: 1W 7D 19L overall (worst in PL). 0 away wins. |
 | H2H | Palace won last 6 home H2H vs Wolves, scoring 2+ each time |
 | Context | Wolves historically bad — no away wins all season. Even Palace's poor home form (W2/D6/L4) should be enough. |
+| Additional | Wolves relegation probability at 100% per Opta. Palace signed Jorgen Strand Larsen FROM Wolves in January (2 goals, 1 assist in 3 games). Palace were 4th in mid-December, now 13th. |
 | **Verdict** | **Wolves' abysmal away record + Palace's H2H dominance = strong pick despite Palace's own struggles** |
 
 ### H10: Man City vs Newcastle — Man City Win
 
 | Factor | Detail |
 |--------|--------|
-| League Position | City in title race, Newcastle 11th |
-| Form | City home W10/D2/L1 (joint-best in PL) |
-| Home/Away Split | Newcastle 0 PL away wins (0.50 pts/game). City dominant at Etihad. |
-| Key Players | Haaland 20+ league goals, Cherki leading assists |
-| Context | Both wobbling in 2026 calendar year but City's home record transcends their overall form dip. |
-| **Verdict** | **Newcastle's zero away wins + City's near-perfect home record = reliable pick** |
+| League Position | City 2nd (53pts), Newcastle 10th (36pts) |
+| Form | City won 6 of last 7 all comps. Home W10/D2/L1 (joint-best in PL). Newcastle mixed, lost last 12 trips to Etihad. |
+| Home/Away Split | Newcastle 0 PL away wins all season (0.50 pts/game). City dominant at Etihad. |
+| Key Players | Haaland 20+ league goals (fastest ever to 100 PL goals). Cherki leading assists. |
+| Team News | City OUT: Gvardiol (season), Kovacic, Doku. Newcastle OUT: Bruno Guimaraes (hamstring, out until April - massive blow), Livramento, Schar. |
+| Context | City can close gap to Arsenal to just 2pts with a win. Newcastle fatigued from midweek UCL trip to Baku. Without Bruno Guimaraes, Newcastle lack midfield creativity. |
+| **Verdict** | **Newcastle's zero away wins + City's near-perfect home record + Bruno Guimaraes absence = reliable pick** |
 
 ### H11: Middlesbrough vs Oxford United — Boro Win
 

@@ -41,12 +41,12 @@
 | # | Match | League | KO (GMT) | Selection | Confidence | Form (Last 5) | H2H Summary | Key Reasoning | Risk Flags |
 |---|-------|--------|----------|-----------|------------|----------------|-------------|---------------|------------|
 | H1 | PSV vs Heerenveen | Eredivisie | 14:30 | PSV Win | HIGH | PSV: W15 of last 16 | PSV dominant | PSV 17pts clear at top, won 15 of last 16 league matches. Heerenveen mid-table. Enormous quality gap. | None significant |
-| H2 | Lecce vs Inter | Serie A | 18:00 | Inter Win | HIGH | Inter: 20W/1D/4L from 25 | Inter dominate | Inter 1st (61pts), best attack (60 GF) and defence (21 GA). Lecce lower table. Inter beat Juve 3-2 last week. | Fixture congestion possible |
+| H2 | Lecce vs Inter | Serie A | 18:00 | Inter Win | HIGH | Inter: W12 of last 13 league games | Inter W8 of last 9 H2H. Lecce scoreless in last 6 vs Inter. | Inter 1st (61pts), W12/13 in league. Lecce 17th (24pts), lowest-scoring in Serie A (17 goals). 37-point gap. Inter 71.4% favourites even with absences. | **KEY:** Lautaro Martinez OUT (~1 month, calf). Calhanoglu AND Barella BOTH SUSPENDED. Dumfries injured. Significant depletion. Also lost 3-1 to Bodo/Glimt in UCL. |
 | H3 | Osasuna vs Real Madrid | La Liga | 18:15 | Real Madrid Win | HIGH | RM: 19W/3D/2L from 24 | RM dominant historically | Real Madrid 1st (60pts), best defensive record (19 GA). Only 2 losses all season. Strong away form. | Away match, Osasuna tough at home historically |
-| H4 | Atletico Madrid vs Espanyol | La Liga | 20:30 | Atletico Win | HIGH | Atletico: 13W/6D/5L | Atletico favoured | Atletico 4th (45pts) at home vs Espanyol in relegation zone. Massive quality gap, Atletico strong at Metropolitano. | Atletico can be inconsistent |
+| H4 | Bayern Munich vs Eintracht Frankfurt | Bundesliga | 14:30 | Bayern Win | HIGH | Bayern: W18/D3/L1 (57pts), unbeaten in 5. Frankfurt: 1W in last 10 | Bayern W35 of last 50 H2H. Won 3-0 in reverse. 9 of last 14 at Allianz won by 3+ goals | Bayern 1st (57pts), BEST attack (82 goals) AND defence (19 GA) in Bundesliga. Frankfurt 7th (31pts), just 1W in last 10, heavily injured (7 players out). Kane averaging 1.18 goals/game. Bayern 85.7% favourites. | Neuer out 3-4 weeks. Bayern may rotate for Dortmund clash Feb 28. |
 | H5 | Benfica vs AVS | Liga Portugal | 18:00 | Benfica Win | HIGH | Benfica: Unbeaten in 37 Liga Portugal | Benfica 4W 1D from 5 H2H | Benfica 3rd (52pts), unbeaten in 37 domestic matches. AVS rock-bottom (8pts), worst in league. | Possible rotation for UCL 2nd leg vs Real Madrid (4 days later) |
-| H6 | PSG vs Metz | Ligue 1 | 21:05 | PSG Win | HIGH | PSG: Strong overall, wobbled at Rennes | PSG dominant historically | PSG 2nd in Ligue 1, home at Parc des Princes vs Metz bottom (12-13pts). Despite loss to Rennes, PSG remain elite at home. | PSG just lost to Rennes, possible hangover; UCL obligations |
-| H7 | Lens vs Monaco | Ligue 1 | 17:00 | Lens Win | HIGH | Lens: W11 of last 12 | Lens in supreme form | Lens 1st in Ligue 1, won 10 consecutive home matches. 11 of last 12 won. Monaco 8th, inconsistent away. | Monaco unbeaten in last 4 |
+| H6 | PSG vs Metz | Ligue 1 | 21:05 | PSG Win | HIGH | PSG: Home 28/30pts (W9/D1). Won 3-2 at Monaco in UCL midweek. | PSG W15 STRAIGHT Ligue 1 vs Metz. Metz last beat PSG in May 2006. | PSG 2nd (51pts), 28 of 30 possible home points. Metz dead last (13pts), 9pts from safety, worst defence (49 GA), conceded 31 away. PSG have won last 15 Ligue 1 matches vs Metz — longest active streak vs any opponent. | PSG lost 3-1 at Rennes last week; need bounce-back |
+| H7 | Lens vs Monaco | Ligue 1 | 17:00 | Lens Win | HIGH | Lens: W11 of last 12. Thrashed Paris FC 5-0 last week. | Lens won last 2 H2H (8 goals scored, 4 per game). Won reverse 4-1 | Lens 1st (~52pts), won 10 consecutive home matches, 11 of 12 overall. Monaco 8th (~32pts), winless in last 5 away, FAILED TO SCORE in last 4 away matches. Golovin suspended. | Monaco unbeaten in last 4 overall but toothless on road |
 | H8 | Aston Villa vs Leeds | Premier League | 15:00 | Villa Win | HIGH | Villa: WLWWW | Villa historically strong at home | Villa home W8/D1/L1 this season. Leeds away W1/D5/L7 (7pts from 13 away games). Huge home/away disparity. | Leeds desperate for points (16th) |
 | H9 | Crystal Palace vs Wolves | Premier League | 15:00 | Palace Win | HIGH | Palace: Poor home run but Wolves worse | Palace W6 of last 6 H2H at home | Wolves are 20th (10pts), ZERO away wins all season (W0/D4/L9). Palace won last 6 home H2H, scoring 2+ in each. Even with Palace's poor home form, Wolves are historically bad. | Palace on 9-game winless home run in all comps |
 | H10 | Man City vs Newcastle | Premier League | 12:30 | City Win | HIGH | City: Home W10/D2/L1 | City dominant at home | City home record W10/D2/L1, joint-best in PL. Newcastle have ZERO away PL wins all season (15th in away table, 0.50 pts/game away). Haaland 20+ goals. | Both teams in 2026 wobble (City W3 in 8 in 2026). Newcastle's UCL 6-1 away win shows confidence |
@@ -58,11 +58,12 @@
 | # | Match | League | KO (GMT) | Selection | Confidence | Form (Last 5) | H2H Summary | Key Reasoning | Risk Flags |
 |---|-------|--------|----------|-----------|------------|----------------|-------------|---------------|------------|
 | M1 | Chelsea vs Burnley | Premier League | 15:00 | Chelsea Win | MEDIUM | Chelsea: Won 4 of first 4 under Rosenior | Chelsea W18 D0 L1 of 19 PL H2H | Chelsea under new manager Rosenior won first 4 PL matches. Burnley promoted. But Chelsea dropped 15pts from winning positions at home this season. 7 of Burnley's 8 PL pts vs Chelsea came at Stamford Bridge. | Trap game: already lost to Sunderland at home. At risk of losing to all 3 promoted teams. Burnley historic Stamford Bridge record |
-| M2 | Bayern Munich vs Eintracht Frankfurt | Bundesliga | 14:30 | Bayern Win | MEDIUM | Bayern: Strong, beat Hoffenheim 4-1 | Bayern dominant | Bayern defending champs, strong at home. Frankfurt decent mid-table side. Should win but Frankfurt capable of getting a result. | Frankfurt a quality opponent |
+| M2 | Atletico Madrid vs Espanyol | La Liga | 20:30 | Atletico Win | MEDIUM | Atletico: Failed to win last 3 league games (incl. 3-0 loss to Rayo). Espanyol: Winless in 2026 (7 games) | Espanyol UNBEATEN in last 5 H2H! Won reverse fixture 2-1. | Atletico 4th (45pts), home W10/D1/L1 (31pts from 36 at home). Espanyol 6th (35pts) but in freefall — winless in 7 matches in 2026. Quality should tell at Metropolitano. | **Downgraded from HIGH:** Espanyol are 6th NOT relegation zone. Espanyol unbeaten in 5 H2H. Atletico lost 3-0 to Rayo. Likely rotation for UCL 2nd leg vs Brugge. |
+| M19 | Hoffenheim vs Cologne (away) | Bundesliga | 14:30 | Hoffenheim Win | MEDIUM | Hoffenheim: Won 6 of last 7, club-record 45pts at this stage. Cologne: 2W in last 13 | Cologne 0W in last 8 HOME H2H vs Hoffenheim | Hoffenheim 3rd (45pts), in extraordinary form. Cologne 12th (23pts), only 4pts above relegation, leaking goals. Hoffenheim 47 goals scored. | Away match; Cologne desperate at home |
 | M3 | Ajax vs NEC Nijmegen | Eredivisie | 18:45 | Ajax Win | MEDIUM | Ajax: Inconsistent, drew 2-2 with Excelsior, 1-1 with AZ | Ajax historically dominate NEC | Ajax 3rd-4th but have been dropping points to weaker sides (drew with Excelsior 2-2). Home form should be enough vs NEC. | Ajax very inconsistent, prone to dropping points |
-| M4 | Bayer Leverkusen vs Union Berlin (away) | Bundesliga | 14:30 | Leverkusen Win | MEDIUM | Leverkusen: Strong | Leverkusen quality | Leverkusen title contenders away at Union Berlin. Union are solid at home in Alte Försterei. Quality should prevail but tough venue. | Union Berlin notoriously difficult to beat at home |
+| M4 | Bayer Leverkusen vs Union Berlin (away) | Bundesliga | 14:30 | Leverkusen Win | MEDIUM | Leverkusen: Unbeaten in 7 (W6/D1), 5 clean sheets in 7. Union: Winless in 2026 (7 games, D4/L3) | Leverkusen W5 of last 7 H2H. Union haven't beaten Leverkusen since 2021 (10 attempts). | Leverkusen 6th (39pts, game in hand), unbeaten in 7, only 2 goals conceded in 7. Union 10th (25pts), winless in 2026, just 1W in 8 home games. Schick 13 goals. | Union's Alte Försterei remains intimidating. Union strong from set pieces (39% of goals from corners). |
 | M5 | Moreirense vs Sporting CP | Liga Portugal | 18:00 | Sporting Win | MEDIUM | Sporting: W4 of last 5, W17/D4/L1 | Sporting 23-3 in H2H | Sporting 2nd (55pts), won 4/5 recently, 56 goals scored (best in league). But Moreirense beat Sporting 2-1 at home last season. | Moreirense scored in 9/10 home games; historically tricky venue |
-| M6 | Real Sociedad vs Real Oviedo | La Liga | 14:00 | Sociedad Win | MEDIUM | Sociedad: Mid-table | Sociedad at home | Real Sociedad at home vs Real Oviedo who are in the relegation zone. Home advantage and quality gap. | Sociedad inconsistent this season |
+| M6 | Real Sociedad vs Real Oviedo | La Liga | 14:00 | Sociedad Win | MEDIUM | Sociedad: Were on 11-game unbeaten run (7W) before 4-1 loss to RM. Won 3 straight home. Oviedo: Bottom (20th, 16pts) | Oviedo won reverse 1-0 (shock). But Oviedo haven't won AWAY at Sociedad since 1976. | Sociedad 8th (31pts), strong at home (21pts from 11 home games). Oviedo rock-bottom (16pts), lowest-scoring in La Liga (13 goals in 23 games), 9pts below safety. | Oviedo did win the reverse fixture 1-0. Sociedad lost 4-1 to RM last time out. Kubo out. |
 | M7 | Club Brugge vs OH Leuven | Belgian Pro League | 20:00 | Brugge Win | MEDIUM | Brugge: Typically dominant | Brugge strong | Club Brugge traditionally Belgium's top team, at home vs OH Leuven. | Belgian league unpredictable |
 | M8 | Hearts vs Falkirk | Scottish Premiership | 15:00 | Hearts Win | MEDIUM | Hearts: Unbeaten 27 of last 30 | Hearts strong record | Hearts remarkable form (unbeaten 27/30 in Premiership). Falkirk promoted and lower in table. | Hearts lost 4-2 to Rangers last week; Falkirk have caused upsets |
 | M9 | Odense vs FC Copenhagen | Danish Superliga | 17:00 | Copenhagen Win | MEDIUM | Copenhagen: Top team | Copenhagen historically dominant | FC Copenhagen typically top Danish team, Odense mid-table. Quality edge to Copenhagen. | Away match, limited data on current form |
@@ -85,7 +86,7 @@
 | Braga vs Vitoria Guimaraes | Liga Portugal | **DERBY** — Minho derby, one of the most heated rivalries in Portuguese football. Guimaraes unbeaten in last 3 H2H league meetings (W1 D2). Guimaraes won League Cup final vs Braga in January. Unpredictable. |
 | Grasshoppers vs Zurich | Swiss Super League | **DERBY** — Zurich derby. Derby matches excluded per framework. |
 | RB Leipzig vs Borussia Dortmund | Bundesliga | **Big match** — Two top-6 sides in a high-profile fixture. Both capable of winning. Too unpredictable for accumulator inclusion. |
-| Nottingham Forest vs Liverpool | Premier League | **New manager debut/early match** — Vitor Pereira just appointed (15 Feb). Forest 17th, 3 managers this season. Liverpool faltering but beat Forest 0-3 at Anfield. New manager bounces are unpredictable. Forest also beat Liverpool 3-0 earlier in reverse fixture. |
+| Nottingham Forest vs Liverpool | Premier League | **New manager's 1st PL match** — Vitor Pereira appointed 15 Feb (Forest's 4TH manager this season: Nuno sacked Sep, Postecoglou sacked Oct after 0W in 8, Dyche sacked Feb 12). Liverpool faltering (2W in 2026) but Slot has NEVER beaten Forest (0W in 3 attempts). Forest beat Liverpool 3-0 at Anfield in reverse. Chris Wood injured. Extreme unpredictability. |
 | West Ham vs Bournemouth | Premier League | **Both teams volatile** — West Ham fighting relegation (18th, improved form 3W/4 recently). Bournemouth in-form (6 unbeaten). West Ham desperate but poor home record; Bournemouth strong on road. Too close to call. |
 | Brentford vs Brighton | Premier League | **Moved to MEDIUM** — Brighton in freefall (1W in 13 since December, just 7pts above relegation). Brentford home W7/D4/L2, 20pts from last 10 PL. Reclassified from excluded to M18. |
 | Juventus vs Como | Serie A | **Too close in table** — Juve 5th (46pts) vs Como 6th (44pts). Only 2 points separate them. Como have been impressive this season (W12 D8 L5, +21 GD). Not a clear enough favourite. |
@@ -128,13 +129,13 @@
 
 | Acca Name | # Picks | Selections | Brief Rationale per Pick |
 |-----------|---------|------------|------------------------|
-| **High-8** | 8 | H1: PSV Win, H2: Inter Win, H3: Real Madrid Win, H4: Atletico Win, H5: Benfica Win, H7: Lens Win, H8: Villa Win, H11: Boro Win | Adds Atletico (4th, home vs relegation-zone Espanyol) and Lens (1st, W11/12, 10 home wins in row). All have 4+ factors strongly aligned. |
+| **High-8** | 8 | H1: PSV Win, H2: Inter Win, H3: Real Madrid Win, H4: Bayern Win, H5: Benfica Win, H7: Lens Win, H8: Villa Win, H11: Boro Win | Adds Bayern (1st, 57pts, 82 goals, vs Frankfurt 1W in 10) and Lens (1st, W11/12, 10 home wins in row). All have 4+ factors strongly aligned. |
 
 ### High-10 (Maximum High-Confidence)
 
 | Acca Name | # Picks | Selections | Brief Rationale per Pick |
 |-----------|---------|------------|------------------------|
-| **High-10** | 10 | H1: PSV Win, H2: Inter Win, H3: Real Madrid Win, H4: Atletico Win, H5: Benfica Win, H6: PSG Win, H7: Lens Win, H8: Villa Win, H9: Palace Win, H11: Boro Win | Adds PSG (home vs bottom team Metz) and Crystal Palace (Wolves have 0 away wins, Palace won last 6 H2H at home). Slight step up in risk. |
+| **High-10** | 10 | H1: PSV Win, H2: Inter Win, H3: Real Madrid Win, H4: Bayern Win, H5: Benfica Win, H6: PSG Win, H7: Lens Win, H8: Villa Win, H9: Palace Win, H11: Boro Win | Adds PSG (home vs bottom team Metz, W15 straight vs Metz) and Crystal Palace (Wolves have 0 away wins, Palace won last 6 H2H at home). Slight step up in risk. |
 
 ### High-12 (Full High-Confidence Sweep)
 
@@ -150,19 +151,19 @@
 
 | Acca Name | # Picks | Selections | Brief Rationale per Pick |
 |-----------|---------|------------|------------------------|
-| **Medium-5** | 5 | M2: Bayern Win, M5: Sporting Win, M7: Brugge Win, M8: Hearts Win, M9: Copenhagen Win | Five medium picks across diverse leagues. Bayern at home; Sporting 2nd in Portugal; Brugge dominant in Belgium; Hearts unbeaten 27/30; Copenhagen top Danish team. |
+| **Medium-5** | 5 | M2: Atletico Win, M5: Sporting Win, M7: Brugge Win, M8: Hearts Win, M9: Copenhagen Win | Five medium picks across diverse leagues. Atletico home W10/D1/L1 vs collapsing Espanyol; Sporting 2nd in Portugal; Brugge dominant in Belgium; Hearts unbeaten 27/30; Copenhagen top Danish team. |
 
 ### Medium-8 (Standard Builder)
 
 | Acca Name | # Picks | Selections | Brief Rationale per Pick |
 |-----------|---------|------------|------------------------|
-| **Medium-8** | 8 | M1: Chelsea Win, M2: Bayern Win, M4: Leverkusen Win, M5: Sporting Win, M6: Sociedad Win, M7: Brugge Win, M8: Hearts Win, M10: Hull Win | Adds Chelsea (new manager momentum), Leverkusen (quality), Sociedad (home vs relegation), Hull (4th, home). |
+| **Medium-8** | 8 | M1: Chelsea Win, M2: Atletico Win, M4: Leverkusen Win, M5: Sporting Win, M6: Sociedad Win, M7: Brugge Win, M8: Hearts Win, M10: Hull Win | Adds Chelsea (new manager momentum), Leverkusen (unbeaten in 7), Sociedad (home vs bottom), Hull (4th, home). |
 
 ### Medium-12 (Extended Medium Tier)
 
 | Acca Name | # Picks | Selections | Brief Rationale per Pick |
 |-----------|---------|------------|------------------------|
-| **Medium-12** | 12 | M1: Chelsea Win, M2: Bayern Win, M3: Ajax Win, M4: Leverkusen Win, M5: Sporting Win, M6: Sociedad Win, M7: Brugge Win, M8: Hearts Win, M9: Copenhagen Win, M10: Hull Win, M13: Legia Win, M14: Galatasaray Win | Full spread of medium picks. All have 2-3 factors favouring selection but each carries identified uncertainty. |
+| **Medium-12** | 12 | M1: Chelsea Win, M2: Atletico Win, M3: Ajax Win, M4: Leverkusen Win, M5: Sporting Win, M6: Sociedad Win, M7: Brugge Win, M8: Hearts Win, M9: Copenhagen Win, M10: Hull Win, M13: Legia Win, M14: Galatasaray Win | Full spread of medium picks. All have 2-3 factors favouring selection but each carries identified uncertainty. |
 
 ### Medium-15 (Full Medium Selection)
 
@@ -176,10 +177,10 @@
 
 | Acca Name | High Picks | Medium Picks | Full Selection List | Rationale |
 |-----------|-----------|--------------|---------------------|-----------|
-| **Mixed-Safe** | H1 (PSV), H2 (Inter), H5 (Benfica) | M2 (Bayern), M7 (Brugge) | PSV Win, Inter Win, Benfica Win, Bayern Win, Club Brugge Win | 3 near-certain home favourites + 2 quality home teams. Conservative blend minimising risk. |
-| **Mixed-Standard** | H1 (PSV), H2 (Inter), H3 (Real Madrid), H8 (Villa) | M2 (Bayern), M5 (Sporting), M7 (Brugge), M8 (Hearts) | PSV Win, Inter Win, Real Madrid Win, Villa Win, Bayern Win, Sporting Win, Brugge Win, Hearts Win | 4 top-tier picks + 4 strong mediums across 6 leagues. Balanced European spread. |
-| **Mixed-Extended** | H1 (PSV), H2 (Inter), H3 (RM), H4 (Atletico), H7 (Lens), H8 (Villa) | M2 (Bayern), M4 (Leverkusen), M5 (Sporting), M7 (Brugge), M8 (Hearts), M9 (Copenhagen) | PSV Win, Inter Win, RM Win, Atletico Win, Lens Win, Villa Win, Bayern Win, Leverkusen Win, Sporting Win, Brugge Win, Hearts Win, Copenhagen Win | 6+6 spread across 9 different leagues. Good diversification. |
-| **Mixed-Max** | All 12 High picks | M2 (Bayern), M4 (Leverkusen), M5 (Sporting), M7 (Brugge), M8 (Hearts), M13 (Legia), M14 (Galatasaray) | All 12 High + 7 selected Medium = 19 selections | Maximum viable selections. Every high pick + strongest medium picks. High risk, high potential return. |
+| **Mixed-Safe** | H1 (PSV), H2 (Inter), H5 (Benfica) | M2 (Atletico), M7 (Brugge) | PSV Win, Inter Win, Benfica Win, Atletico Win, Club Brugge Win | 3 near-certain home favourites + 2 quality home teams. Conservative blend minimising risk. |
+| **Mixed-Standard** | H1 (PSV), H2 (Inter), H3 (Real Madrid), H8 (Villa) | M2 (Atletico), M5 (Sporting), M7 (Brugge), M8 (Hearts) | PSV Win, Inter Win, Real Madrid Win, Villa Win, Atletico Win, Sporting Win, Brugge Win, Hearts Win | 4 top-tier picks + 4 strong mediums across 6 leagues. Balanced European spread. |
+| **Mixed-Extended** | H1 (PSV), H2 (Inter), H3 (RM), H4 (Bayern), H7 (Lens), H8 (Villa) | M2 (Atletico), M4 (Leverkusen), M5 (Sporting), M7 (Brugge), M8 (Hearts), M9 (Copenhagen) | PSV Win, Inter Win, RM Win, Bayern Win, Lens Win, Villa Win, Atletico Win, Leverkusen Win, Sporting Win, Brugge Win, Hearts Win, Copenhagen Win | 6+6 spread across 9 different leagues. Good diversification. |
+| **Mixed-Max** | All 12 High picks | M2 (Atletico), M4 (Leverkusen), M5 (Sporting), M7 (Brugge), M8 (Hearts), M13 (Legia), M14 (Galatasaray) | All 12 High + 7 selected Medium = 19 selections | Maximum viable selections. Every high pick + strongest medium picks. High risk, high potential return. |
 
 ---
 
@@ -205,7 +206,7 @@
 
 | Type | Acca Name | Selections | Confidence Mix | Why These Together |
 |------|-----------|------------|----------------|-------------------|
-| Double | **Medium-Double-1** | Bayern Win + Leverkusen Win | MEDIUM x2 | Bundesliga double: Germany's top 2 teams both playing. Quality should prevail in both. |
+| Double | **Medium-Double-1** | Atletico Win + Leverkusen Win | MEDIUM x2 | European double: Atletico home fortress (W10/D1/L1) + Leverkusen unbeaten in 7 (W6/D1). Quality should prevail in both. |
 | Double | **Medium-Double-2** | Sporting Win + Brugge Win | MEDIUM x2 | Two traditional domestic giants in Portugal and Belgium away/at home. |
 | Double | **Medium-Double-3** | Hearts Win + Hull Win | MEDIUM x2 | British double: Hearts (unbeaten 27/30) + Hull (4th in Championship). |
 
@@ -213,7 +214,7 @@
 
 | Type | Acca Name | Selections | Confidence Mix | Why These Together |
 |------|-----------|------------|----------------|-------------------|
-| Treble | **Cross-Treble-1** | PSV Win + Inter Win + Bayern Win | 2 HIGH + 1 MEDIUM | Two league leaders + Bayern at home. Bayern adds slight risk but quality should tell. |
+| Treble | **Cross-Treble-1** | PSV Win + Inter Win + Atletico Win | 2 HIGH + 1 MEDIUM | Two league leaders + Atletico at home (W10/D1/L1). Atletico adds slight risk due to recent wobble. |
 | Treble | **Cross-Treble-2** | Benfica Win + Lens Win + Sporting Win | 2 HIGH + 1 MEDIUM | Three Portuguese/French title contenders. Sporting adds slight away-game risk. |
 
 ---
@@ -255,15 +256,18 @@
 | Context | Title race with Barcelona (2pts gap), must keep winning |
 | **Verdict** | **Strong away favourite with title-race motivation** |
 
-### H4: Atletico Madrid vs Espanyol — Atletico Win
+### H4: Bayern Munich vs Eintracht Frankfurt — Bayern Win
 
 | Factor | Detail |
 |--------|--------|
-| League Position | Atletico 4th (45pts), Espanyol in/near relegation zone |
-| Form | 13W/6D/5L from 24 |
-| Home Record | Atletico strong at Civitas Metropolitano |
-| Context | Espanyol fighting relegation but outclassed. UCL qualification race for Atletico. |
-| **Verdict** | **Clear home favourite, major quality gap** |
+| League Position | Bayern 1st (57pts, W18/D3/L1), Frankfurt 7th (31pts, W8/D7/L7) |
+| Form | Bayern unbeaten in 5 (W4/D1). Best attack (82 goals) AND best defence (19 GA) in Bundesliga. Beat Bremen 3-0 last (Kane x2). Frankfurt: just 1W in last 10 matches. |
+| Home Record | Bayern dominant at Allianz Arena. 9 of last 14 home H2H won by 3+ goals. |
+| H2H | Bayern W35 of 50 meetings. Won this season's reverse fixture 3-0. Frankfurt just 8 wins in 50 meetings. |
+| Key Players | Kane averaging 1.18 goals/game. Luis Diaz: 13 goals, 10 assists. |
+| Team News | Bayern: Neuer out (muscle, 3-4 weeks), Olise returns. Frankfurt: 7 players out (Batshuayi, Burkardt, Knauff, Kristensen, Theate, Uzun, Ebnoutalib). |
+| Context | Bayern 6pts clear at top. Tune-up before Dortmund (Feb 28). Frankfurt heavily depleted and struggling badly (1W in 10). Bayern 85.7% favourites. |
+| **Verdict** | **One of the day's strongest picks. Dominant league leaders vs heavily depleted, out-of-form opponent** |
 
 ### H5: Benfica vs AVS — Benfica Win
 
@@ -358,11 +362,11 @@
 
 **Why still selected:** New manager Liam Rosenior won his first 4 PL matches. Fresh start, squad quality, and Burnley are promoted/struggling.
 
-### M2: Bayern Munich vs Eintracht Frankfurt — Bayern Win (MEDIUM)
+### M2: Atletico Madrid vs Espanyol — Atletico Win (MEDIUM)
 
-**Why not HIGH:** Frankfurt are a quality Bundesliga side capable of getting results at the Allianz Arena. Bayern strong but Frankfurt aren't pushover material like some other opponents.
+**Why not HIGH:** Espanyol are 6th (35pts), NOT in the relegation zone as initially assumed. They've collapsed in 2026 (0W in 7) but still have quality. Espanyol are unbeaten in the last 5 H2H vs Atletico and won the reverse fixture 2-1. Atletico have failed to win their last 3 league games (including a 3-0 loss to Rayo Vallecano). Rotation expected for UCL 2nd leg vs Brugge.
 
-**Why still selected:** Bayern defending champions, strong home record, squad depth.
+**Why still selected:** Atletico's home record is W10/D1/L1 (31pts from 36 possible at Metropolitano). Even in poor form, they're formidable at home. Espanyol's 7-match winless run and freefall from strong first-half position makes them vulnerable.
 
 ### M5: Moreirense vs Sporting CP — Sporting Win (MEDIUM)
 

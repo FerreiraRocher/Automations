@@ -66,10 +66,10 @@
 | M6 | Real Sociedad vs Real Oviedo | La Liga | 14:00 | Sociedad Win | MEDIUM | Sociedad: Were on 11-game unbeaten run (7W) before 4-1 loss to RM. Won 3 straight home. Oviedo: Bottom (20th, 16pts) | Oviedo won reverse 1-0 (shock). But Oviedo haven't won AWAY at Sociedad since 1976. | Sociedad 8th (31pts), strong at home (21pts from 11 home games). Oviedo rock-bottom (16pts), lowest-scoring in La Liga (13 goals in 23 games), 9pts below safety. | Oviedo did win the reverse fixture 1-0. Sociedad lost 4-1 to RM last time out. Kubo out. |
 | M7 | Club Brugge vs OH Leuven | Belgian Pro League | 20:00 | Brugge Win | MEDIUM | Brugge: Typically dominant | Brugge strong | Club Brugge traditionally Belgium's top team, at home vs OH Leuven. | Belgian league unpredictable |
 | M8 | Hearts vs Falkirk | Scottish Premiership | 15:00 | Hearts Win | MEDIUM | Hearts: Unbeaten 27 of last 30 | Hearts strong record | Hearts remarkable form (unbeaten 27/30 in Premiership). Falkirk promoted and lower in table. | Hearts lost 4-2 to Rangers last week; Falkirk have caused upsets |
-| M9 | Odense vs FC Copenhagen | Danish Superliga | 17:00 | Copenhagen Win | MEDIUM | Copenhagen: Top team | Copenhagen historically dominant | FC Copenhagen typically top Danish team, Odense mid-table. Quality edge to Copenhagen. | Away match, limited data on current form |
+| M9 | Odense vs FC Copenhagen | Danish Superliga | 17:00 | Copenhagen Win | MEDIUM | Copenhagen: 7th (28pts) | Copenhagen historically dominant | Copenhagen 7th (28pts) — NOT the usual dominant force. AGF leads (44pts). However, Copenhagen still have quality edge and historical pedigree vs Odense (8th, 26pts). Tight match. | **CAUTION:** Copenhagen are mid-table (7th), NOT top. Only 2pts separate these sides. Much closer than initially assumed. |
 | M10 | Hull vs QPR | Championship | 12:30 | Hull Win | MEDIUM | Hull: 4th-5th (54pts) | Hull at home | Hull City 4th-5th (54pts) at home vs QPR lower table. Promotion-chasing form. | Championship very competitive |
 | M11 | Stoke vs Leicester | Championship | 12:30 | Stoke Win | MEDIUM | Leicester: Deducted 6pts, near relegation | Mixed | Leicester deducted 6pts for PSR breach, appointed new manager Gary Rowett. Stoke mid-table at home. Leicester in disarray. | New manager bounce possible for Leicester |
-| M12 | Rapid Vienna vs Wolfsberger AC | Austrian Bundesliga | 17:00 | Rapid Win | MEDIUM | Rapid: Traditionally strong | Rapid at home | Rapid Vienna are historically one of Austria's biggest clubs, strong at home. Wolfsberger typically mid-lower table. | Austrian league can produce upsets |
+| M12 | Rapid Vienna vs Wolfsberger AC | Austrian Bundesliga | 17:00 | Rapid Win | MEDIUM | Rapid: Traditionally strong. WAC: 3rd (20pts) | Mixed | Rapid Vienna historically one of Austria's biggest clubs. However, WAC are actually 3rd in Austrian Bundesliga (20pts), close to Salzburg 1st (21pts). NOT mid-lower table as initially assumed. | **CAUTION:** WAC are 3rd in league (20pts), only 1pt off top. This is a much harder match than originally classified. Consider excluding. |
 | M13 | Legia vs Wisla Plock | Polish Ekstraklasa | 17:30 | Legia Win | MEDIUM | Legia: Dominant | Legia historically dominant | Legia Warsaw are Poland's most successful club, at home vs Wisla Plock. Quality gap expected. | Limited detailed form data |
 | M14 | Konyaspor vs Galatasaray | Turkish Super Lig | 17:00 | Galatasaray Win | MEDIUM | Galatasaray: Title contenders | Galatasaray strong | Galatasaray are consistent title contenders, likely top of Turkish table. Konyaspor mid-lower table. | Away match; Turkish league volatile |
 | M15 | Bolton vs Blackpool | EFL League One | 15:00 | Bolton Win | MEDIUM | Bolton: Automatic promotion battle, recent good run | Bolton at home | Bolton in automatic promotion fight, strong recent form (4-game winning run ended recently). Home advantage. | League One unpredictable |
@@ -151,7 +151,7 @@
 
 | Acca Name | # Picks | Selections | Brief Rationale per Pick |
 |-----------|---------|------------|------------------------|
-| **Medium-5** | 5 | M2: Atletico Win, M5: Sporting Win, M7: Brugge Win, M8: Hearts Win, M9: Copenhagen Win | Five medium picks across diverse leagues. Atletico home W10/D1/L1 vs collapsing Espanyol; Sporting 2nd in Portugal; Brugge dominant in Belgium; Hearts unbeaten 27/30; Copenhagen top Danish team. |
+| **Medium-5** | 5 | M2: Atletico Win, M5: Sporting Win, M7: Brugge Win, M8: Hearts Win, M18: Brentford Win | Five medium picks across diverse leagues. Atletico home W10/D1/L1 vs collapsing Espanyol; Sporting 2nd in Portugal; Brugge dominant in Belgium; Hearts unbeaten 27/30; Brentford home vs freefall Brighton (1W in 13). *Copenhagen removed — only 7th in Danish Superliga (28pts), just 2pts above Odense.* |
 
 ### Medium-8 (Standard Builder)
 
@@ -163,13 +163,13 @@
 
 | Acca Name | # Picks | Selections | Brief Rationale per Pick |
 |-----------|---------|------------|------------------------|
-| **Medium-12** | 12 | M1: Chelsea Win, M2: Atletico Win, M3: Ajax Win, M4: Leverkusen Win, M5: Sporting Win, M6: Sociedad Win, M7: Brugge Win, M8: Hearts Win, M9: Copenhagen Win, M10: Hull Win, M13: Legia Win, M14: Galatasaray Win | Full spread of medium picks. All have 2-3 factors favouring selection but each carries identified uncertainty. |
+| **Medium-12** | 12 | M1: Chelsea Win, M2: Atletico Win, M3: Ajax Win, M4: Leverkusen Win, M5: Sporting Win, M6: Sociedad Win, M7: Brugge Win, M8: Hearts Win, M10: Hull Win, M13: Legia Win, M14: Galatasaray Win, M18: Brentford Win | Full spread of medium picks. All have 2-3 factors favouring selection but each carries identified uncertainty. *Copenhagen (M9) replaced with Brentford (M18) — Copenhagen only 7th (28pts), 2pts above Odense.* |
 
 ### Medium-15 (Full Medium Selection)
 
 | Acca Name | # Picks | Selections | Brief Rationale per Pick |
 |-----------|---------|------------|------------------------|
-| **Medium-15** | 15 | All medium picks M1-M15 (excluding M16, M17 for lower-league uncertainty) | Maximum medium coverage. Includes Bolton (promotion fight), Stoke vs relegated Leicester, and Rapid Vienna. Higher variance but each pick has supporting rationale. |
+| **Medium-15** | 15 | All medium picks M1-M15 (excluding M16, M17 for lower-league uncertainty) | Maximum medium coverage. Includes Bolton (promotion fight), Stoke vs relegated Leicester. **Warning:** M9 (Copenhagen) now flagged as weak — Copenhagen are 7th, only 2pts above Odense. M12 (Rapid vs WAC) now risky — WAC are 3rd in Austrian Bundesliga (20pts, 1pt off top). Consider replacing both. Higher variance. |
 
 ---
 
@@ -179,7 +179,7 @@
 |-----------|-----------|--------------|---------------------|-----------|
 | **Mixed-Safe** | H1 (PSV), H2 (Inter), H5 (Benfica) | M2 (Atletico), M7 (Brugge) | PSV Win, Inter Win, Benfica Win, Atletico Win, Club Brugge Win | 3 near-certain home favourites + 2 quality home teams. Conservative blend minimising risk. |
 | **Mixed-Standard** | H1 (PSV), H2 (Inter), H3 (Real Madrid), H8 (Villa) | M2 (Atletico), M5 (Sporting), M7 (Brugge), M8 (Hearts) | PSV Win, Inter Win, Real Madrid Win, Villa Win, Atletico Win, Sporting Win, Brugge Win, Hearts Win | 4 top-tier picks + 4 strong mediums across 6 leagues. Balanced European spread. |
-| **Mixed-Extended** | H1 (PSV), H2 (Inter), H3 (RM), H4 (Bayern), H7 (Lens), H8 (Villa) | M2 (Atletico), M4 (Leverkusen), M5 (Sporting), M7 (Brugge), M8 (Hearts), M9 (Copenhagen) | PSV Win, Inter Win, RM Win, Bayern Win, Lens Win, Villa Win, Atletico Win, Leverkusen Win, Sporting Win, Brugge Win, Hearts Win, Copenhagen Win | 6+6 spread across 9 different leagues. Good diversification. |
+| **Mixed-Extended** | H1 (PSV), H2 (Inter), H3 (RM), H4 (Bayern), H7 (Lens), H8 (Villa) | M2 (Atletico), M4 (Leverkusen), M5 (Sporting), M7 (Brugge), M8 (Hearts), M18 (Brentford) | PSV Win, Inter Win, RM Win, Bayern Win, Lens Win, Villa Win, Atletico Win, Leverkusen Win, Sporting Win, Brugge Win, Hearts Win, Brentford Win | 6+6 spread across 8 different leagues. Good diversification. *Copenhagen replaced with Brentford — stronger underlying case.* |
 | **Mixed-Max** | All 12 High picks | M2 (Atletico), M4 (Leverkusen), M5 (Sporting), M7 (Brugge), M8 (Hearts), M13 (Legia), M14 (Galatasaray) | All 12 High + 7 selected Medium = 19 selections | Maximum viable selections. Every high pick + strongest medium picks. High risk, high potential return. |
 
 ---
@@ -382,12 +382,12 @@
 
 | League | Sat 21 Feb Fixtures | Selections Made | Excluded |
 |--------|---------------------|-----------------|----------|
-| Premier League | 7 | 4 High, 1 Medium | 2 (Forest/Liverpool, Brentford/Brighton) + 1 excluded (West Ham/Bournemouth) |
+| Premier League | 7 | 4 High, 2 Medium | 1 (Forest/Liverpool) + 1 excluded (West Ham/Bournemouth) |
 | Championship | 10 | 1 High, 3 Medium | 6 |
 | Scottish Premiership | 4 | 1 Medium | 3 |
 | EFL League One | 12 | 2 Medium | 10 |
 | EFL League Two | 11 | 0 | 11 (insufficient data) |
-| Bundesliga | 4 (Sat) | 2 Medium | 1 (Leipzig/Dortmund) |
+| Bundesliga | 4 (Sat) | 1 High, 2 Medium | 1 (Leipzig/Dortmund) |
 | 2. Bundesliga | 4 | 0 | 4 (insufficient data) |
 | La Liga | 4 | 2 High, 1 Medium | 1 |
 | Serie A | 3 | 1 High | 2 (Juve/Como too close, Cagliari/Lazio) |
@@ -411,6 +411,8 @@
 3. **Crystal Palace home form** — 9-game winless home run. However, Wolves' 0 away wins and Palace's 6-win H2H streak at home override this concern.
 4. **Man City 2026 wobble** — Only 3 wins from 8 PL matches in 2026. But home record (W10/D2/L1) remains elite.
 5. **Chelsea trap game** — Burnley historically perform at Stamford Bridge. Chelsea have dropped 15pts from winning positions at home. Classified MEDIUM for this reason.
+6. **Copenhagen (M9) weakened** — Copenhagen are 7th (28pts) in the Danish Superliga, NOT the dominant top team. AGF leads (44pts). Odense are 8th (26pts) — only 2pts separate them. This is essentially a mid-table clash. Removed from recommended accumulators in favour of stronger picks.
+7. **Rapid Vienna vs WAC (M12) risky** — Wolfsberger AC are actually 3rd in the Austrian Bundesliga (20pts), just 1pt behind leaders Salzburg (21pts). NOT "mid-lower table." This is a much harder fixture than originally classified.
 
 ### Methodology Notes
 
